@@ -1,2 +1,2 @@
-# reveiw-project2
+# reveiw-project
 Completed Password Generator
